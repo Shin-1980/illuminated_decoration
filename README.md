@@ -13,6 +13,6 @@ Open illuminatedDecoration.ipynb, and then set up a path to a folder which store
 </p>
 
 <p align="left">
-  <img src="README.assets/folder.png" width=50%/>
-  <img src="README.assets/xyz.png" width=50%/>
+  <img src="README.assets/folder.png" width=45%/>
+  <img src="README.assets/xyz.png" width=45%/>
 </p>
