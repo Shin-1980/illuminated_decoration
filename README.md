@@ -12,3 +12,10 @@ Open illuminatedDecoration.ipynb, and then set up a path to a folder which store
   <img src="README.assets/jupyter_notebook.png" width=100%/>
 </p>
 
+<p align="left">
+  <img src="README.assets/folder.png" width=50%/>
+</p>
+
+<p align="right">
+  <img src="README.assets/xyz.png" width=50%/>
+</p>
